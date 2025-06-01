@@ -9,6 +9,8 @@ Hi there 👋
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltrajano078&hide_progress=true)
+
 
 ##
  
