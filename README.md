@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltrajano078&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltrajano078&hide_progress=false)
 
 
 <div style="display: inline_block"><br>
