@@ -1,5 +1,5 @@
 Olá 👋, meu nome é Gabriel Trajano e estou cursando Ciências da Computação na Universidade de Fortaleza (Unifor), 
-estou no terceiro semestre e sempre busco aprender mais!.
+estou no quinto e sempre busco aprender mais!.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
